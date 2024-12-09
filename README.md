@@ -34,3 +34,5 @@ Refer to wind_speed_analysis.py file, providing a series of visualisations to ex
 ## Insights
 
 Refer to the **wind_speed_analysis.pdf** for a detailed analysis and insights. 
+
+![image](https://github.com/user-attachments/assets/fdc3629a-cc32-4cc2-8d9c-6f87b4e082f6)
