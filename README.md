@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the historical wind speed data of a specific site, analysing wind speed variability and trends from January 1st, 1993 to March 3rd, 2023. The data is recorded at 30-minute intervals and is used to provide insights for a company involved in energy generation and selling energy to the spot market. The analysis focuses on identifying key observations such as fluctuations, trends, and their potential impact on energy generation and supply stability.
+This project explores the historical wind speed data of a specific site, analysing wind speed variability and trends from January 1st, 1993 to March 3rd, 2023. The data is recorded at 30-minute intervals and is used to provide insights for a company involved in energy generation and selling energy to the spot market. The analysis identifies key observations such as fluctuations, trends, seasonality of wind speed and their potential impact on energy generation and supply stability.
 
 ## Data Description
 
